@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: XDS
 description: Proof of stake decentralized messenger
+github:
+  is_project_page: false
